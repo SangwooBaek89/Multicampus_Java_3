@@ -1,0 +1,13 @@
+											[주소록 관리 프로그램]
+
+	----구성 요소(java bean)---
+	value object (vo)
+	domain transfer object(dto)
+	domain object(do)
+	model
+	-------------------------
+	
+	----중첩 클래스------
+	
+
+
